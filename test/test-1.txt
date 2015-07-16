@@ -1,0 +1,147 @@
+ls
+sls -l
+touch toto
+echo dml,ze vm vm zmmzef me vmz vmlze > toto
+cat -e toto
+rm -f toto
+ls > lol
+ls | grep .c 
+env
+setenv test 42
+env
+unsetenv test
+env
+pwd
+cd ..
+pwd
+ls > toto; cat toto
+cat test || rm toto
+cd -
+pwd
+cd 
+pwd
+cd -
+echo hello word
+input cat | sort -n | grep -e "lol" > output
+              	   echo test avec des tabulation
+echo titi || cat /etc/hostname && echo "hello"
+,ncelnpnpd
+ls |||| cat output
+man ls | head
+clear
+ls > toto; ls -la >> toto && cat toto
+cat toto | grep .o | grep .l
+clear
+rm toto
+cat toto
+tcsh
+exit
+man cat | tail
+clear
+ls | pwd ; lol
+pwd ;
+;
+; lol; ls || pwd
+unsetenv test
+env
+pwd
+cd ..
+pwd
+ls > toto; cat toto
+cat test || rm toto
+cd -
+pwd
+cat test || rm toto && ls ; pwd
+cat test || rm toto && ls ; pwd
+ls || rm toto && ls ; pwd
+cat test && rm toto && ls ; pwd
+cat lol && rm toto && ls ; pwd
+rm toto && ls ; pwd
+ls | grep .c
+
+setenv lol lol
+env
+znv
+cd
+env
+        ls      ;   pwd
+ls | cat -e ; pwd || cat -e
+ls > test
+cat -e test
+cat < test
+ls -l >> test
+cat test
+rm test
+echo ok
+ cat -e testvar
+ rm testvar
+ HOME=lol
+ env
+    unsetenv HOME
+   cd
+   pwd
+  ls
+  touch toto
+     ls > toto; cat toto
+    cat test || rm toto
+   cd -
+             pwd
+       vcvyocyohcucyu ogictydugjx
+               erfrf
+  zrf
+ rferfrv
+ efvervefv
+ vcvyocyohcucyu ogictydugjx
+ erfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferf\
+ rferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrfe\
+ rfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfr\
+ ferfrferfrferfrferfrferfrferfrf
+ zrf
+ rf
+ erfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferf\
+ rferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrferfrfe\
+ rfrferfrferfrferfrferfrferfrferfrf || ls
+ zrf
+     rf
+          pd va
+                                    pwd > test
+                                                                   cat test
+                 rm test
+                      echo ok
+              	   echo test avec des tabulation
+ls || cat output
+man ls | head
+clear
+ls > toto; ls -la >> toto && cat toto
+clear
+rm toto
+cat toto
+man cat | tail
+clear
+ls | pwd ; lol
+pwd ;
+touch toto
+echo dml,ze vm vm zmmzef me vmz vmlze > toto
+cat -e toto
+rm -f toto
+ls > lol
+ls | grep .c 
+env
+setenv test 42
+env
+unsetenv test
+env
+pwd
+cd ..
+pwd
+ls > toto; cat toto
+echo lol
+echo rfrfzeffze | pwd
+echo lol && ls && pwd || pwd
+echo lol || ls && pwd || pwd
+echo lol || ls || pwd || pwd
+echo
+echo -n lol
+echo lol
+cho ok
+exit
